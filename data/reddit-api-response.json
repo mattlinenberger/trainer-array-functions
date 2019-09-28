@@ -418,7 +418,7 @@
                     "secure_media": null,
                     "is_reddit_media_domain": false,
                     "is_meta": false,
-                    "category": null,
+                    "category": "Biology",
                     "secure_media_embed": {},
                     "link_flair_text": "Earth Science",
                     "can_mod_post": false,
